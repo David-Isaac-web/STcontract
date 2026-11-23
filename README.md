@@ -715,3 +715,6 @@ MIT
 
 <!-- handsoff-issue-146 -->
 - #146: Add invariant tests for accounting and multi-sig safety
+
+<!-- handsoff-issue-98 -->
+- #98: Test arbitration timeout exactly at its configured ledger
