@@ -721,3 +721,6 @@ MIT
 
 <!-- handsoff-issue-99 -->
 - #99: Test duplicate arbitration escalation for an open case
+
+<!-- handsoff-issue-100 -->
+- #100: Add a read-only arbitration case query for backend reconciliation
