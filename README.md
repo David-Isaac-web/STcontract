@@ -724,3 +724,6 @@ MIT
 
 <!-- handsoff-issue-100 -->
 - #100: Add a read-only arbitration case query for backend reconciliation
+
+<!-- handsoff-issue-101 -->
+- #101: Specify the subscription enrollment lifecycle
