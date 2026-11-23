@@ -718,3 +718,6 @@ MIT
 
 <!-- handsoff-issue-98 -->
 - #98: Test arbitration timeout exactly at its configured ledger
+
+<!-- handsoff-issue-99 -->
+- #99: Test duplicate arbitration escalation for an open case
