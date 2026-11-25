@@ -716,6 +716,18 @@ MIT
 <!-- handsoff-issue-146 -->
 - #146: Add invariant tests for accounting and multi-sig safety
 
+<!-- handsoff-issue-94 -->
+- #94: Test waitlist admission for courses without a capacity limit
+
+<!-- handsoff-issue-95 -->
+- #95: Test waitlist removal after a student enrolls directly
+
+<!-- handsoff-issue-96 -->
+- #96: Test waitlist event payloads for queue transitions
+
+<!-- handsoff-issue-97 -->
+- #97: Test arbitration escalation fee collection rollback
+
 <!-- handsoff-issue-98 -->
 - #98: Test arbitration timeout exactly at its configured ledger
 
@@ -727,3 +739,15 @@ MIT
 
 <!-- handsoff-issue-101 -->
 - #101: Specify the subscription enrollment lifecycle
+
+<!-- handsoff-issue-106 -->
+- #106: Define subscription cancellation and refund behavior
+
+<!-- handsoff-issue-107 -->
+- #107: Emit events for subscription lifecycle changes
+
+<!-- handsoff-issue-108 -->
+- #108: Test subscription payment failures leave no partial state
+
+<!-- handsoff-issue-109 -->
+- #109: Add storage migration coverage for subscription records
